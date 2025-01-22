@@ -1,5 +1,5 @@
 # KSC
- https://discord.gg/VxnfdY4bS4.gihub
+ https://discord.gg/VxnfdY4bS4gihub
 
 Welcome to KSC's official GitHub repository! 👋
 
